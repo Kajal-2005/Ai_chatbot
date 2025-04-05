@@ -81,7 +81,7 @@ with st.sidebar:
         
         model_name = st.selectbox(
             "🤖 AI Model",
-            ("deepseek/deepseek-r1-zero:free", "google/palm-2-chat-bison"),
+            ( "google/palm-2-chat-bison"),
             index=0
         )
         
