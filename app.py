@@ -98,14 +98,14 @@ with st.sidebar:
             }]
 
 # Main interface
-st.title("📅 Smart Bill Reminder Assistant")
+st.title("📅 Smart Bill Assistant")
 st.caption("Never miss a payment with AI-powered bill tracking and reminders")
 
 # Feature cards
 with st.container():
     cols = st.columns(4)
     features = [
-        ("🔔 Reminders", "Payment due alerts"),
+        # ("🔔 Reminders", "Payment due alerts"),
         ("📊 Analysis", "Spending patterns"),
         ("💳 Tracking", "Multiple payment methods"),
         ("📈 Tips", "Financial optimization")
