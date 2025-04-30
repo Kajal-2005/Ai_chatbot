@@ -6,7 +6,7 @@ import logging
 
 # Set page config FIRST
 st.set_page_config(
-    page_title="💰 Smart Bill Chatbot",
+    page_title="💰 Smart Bill Chatbot ",
     page_icon="📅",
     layout="centered",
     initial_sidebar_state="expanded"
