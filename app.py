@@ -98,7 +98,7 @@ with st.sidebar:
             }]
 
 # Main interface
-st.title("📅 Smart Bill")
+st.title("📅 Smart Bill Chatbot")
 st.caption("Never miss a payment with AI-powered bill tracking and reminders")
 
 # Feature cards
